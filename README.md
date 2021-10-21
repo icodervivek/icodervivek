@@ -71,7 +71,7 @@ I'm a self-taught Techie whose live revolves around Web Dev 💻 to Open Source 
 - 🙌 Open Source Enthusiast
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icodervivek&layout=compact)](https://github.com/icodervivek/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icodervivek&layout=compact)](https://github.com/icodervivek/github-readme-stats&theme=radical)
 
 
 
