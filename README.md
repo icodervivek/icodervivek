@@ -100,7 +100,7 @@ const Vivek = {
 ```
 
 ### Technologies that I use
-<div style="display:inline">
+<!-- <div style="display:inline">
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/c.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/java.svg" />
@@ -114,7 +114,10 @@ const Vivek = {
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/mongodb.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/postman.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/visualstudio.svg" />
-</div>
+</div> -->
+
+
+![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 
 
 <a href="https://github.com/icodervivek/github-readme-stats">
