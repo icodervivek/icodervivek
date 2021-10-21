@@ -100,7 +100,21 @@ const Vivek = {
 ```
 
 ### Technologies that I use
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/c.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/java.svg" />
+
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/html5.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/css3.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/nodedotjs.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/express.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/firebase.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/mongodb.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/postman.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/visualstudio.svg" />
+
+
 
 <a href="https://github.com/icodervivek/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical" />
