@@ -36,7 +36,32 @@ This is a [website](google.com)
 
 [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=icodervivek)](https://github.com/icodervivek/github-readme-stats&show_icons=true&theme=radical)
 
+
+
+
+##### A little more about me...  
+
+```javascript
+const Vivek = {
+  Pronouns: "he" | "his",
+  Description : [Tech enthusiast  
+                and a lot more ],
+  Education : 
+           [ 
+           { Collge: Ranchi University, 
+             Year :2021-24  }, 
+           { School : International Public School,
+                      Amanat Ali Inter College,
+              Year : 2018-20 } 
+           ],
+ Learning : ['Web Development', 
+            'DSA', 
+            'Open Source Enthusiast ' ]
+}
+```
+
 -->
+
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical)
 
