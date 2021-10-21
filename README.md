@@ -31,6 +31,11 @@ This is a [website](google.com)
 - [x] this is another
 
 
+
 [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=icodervivek)](https://github.com/icodervivek/github-readme-stats&show_icons=true&theme=radical)
 
+
 -->
+
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical)
+
