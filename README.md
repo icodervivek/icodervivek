@@ -72,7 +72,7 @@ const Vivek = {
 
 ## **Hey There, Vivek Here 👋**
 
-I'm a self-taught Techie whose live revolves around **Development** 👨‍💻 to **Open Source** 🧾
+I'm a self-taught Techie whose life revolves around **Development** 👨‍💻 to **Open Source** 🧾
 
 ### About Me
 - 🕸 Aspiring Web Developer
@@ -88,9 +88,10 @@ const Vivek = {
            [ 
            { Collge: BCA Ranchi University, 
              Year : 2021-24  }, 
-           { School : International Public School,
+           { School : South Point Public School,
+                      International Public School,
                       Amanat Ali Inter College,
-             Year : 2018-20 } 
+             Year : 2005-20 } 
            ],
  Learning : ['Web Development', 
              'DSA', 
