@@ -116,6 +116,7 @@ const Vivek = {
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/visualstudio.svg" />
 </div> -->
 
+<div style="display:inline">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -131,6 +132,8 @@ const Vivek = {
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+
+ </div>
 
 <!-- <img src="" />
  -->
