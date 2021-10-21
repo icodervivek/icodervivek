@@ -74,9 +74,30 @@ const Vivek = {
 
 I'm a self-taught Techie whose live revolves around **Web Dev** 💻 to **Open Source** 🧾
 
-##### About Me
+#### About Me
 - 🕸 Aspiring Web Developer
 - 🙌 Open Source Enthusiast
+
+##### A little more about me...  
+
+```javascript
+const Vivek = {
+  Pronouns: "he" | "his",
+  Description : [Tech enthusiast, Traveller,
+                 Developer and a lot more],
+  Education : 
+           [ 
+           { Collge: Ranchi University, 
+             Year :2021-24  }, 
+           { School : International Public School,
+                      Amanat Ali Inter College,
+              Year : 2018-20 } 
+           ],
+ Learning : ['Web Development', 
+            'DSA', 
+            'Open Source Enthusiast ' ]
+}
+```
 
 <a href="https://github.com/icodervivek/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical" />
