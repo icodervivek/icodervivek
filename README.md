@@ -101,7 +101,7 @@ const Vivek = {
 
 ### My Socials
 
-<div style="display:inline; text-decoration: none; text-transform: none;">
+<div style="display:inline; background: none;">
   
 <a href="https://www.linkedin.com/in/vivek-pramanik-657025217">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
