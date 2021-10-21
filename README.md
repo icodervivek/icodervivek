@@ -99,6 +99,15 @@ const Vivek = {
 }
 ```
 
+### My Socials
+
+<div style="display:inline">
+<a href="https://www.linkedin.com/in/vivek-pramanik-657025217" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</div>
+
+
 ### Technologies that I use
 <!-- <div style="display:inline">
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/c.svg" />
@@ -135,8 +144,7 @@ const Vivek = {
 
  </div>
 
-<!-- <img src="" />
- -->
+
 
 
 <a href="https://github.com/icodervivek/github-readme-stats">
