@@ -70,7 +70,7 @@ const Vivek = {
 
 -->
 
-**Hey There, Vivek Here 👋**
+## **Hey There, Vivek Here 👋**
 
 I'm a self-taught Techie whose live revolves around **Web Dev** 💻 to **Open Source** 🧾
 
