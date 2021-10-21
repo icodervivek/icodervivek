@@ -13,4 +13,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+This is a **bold test** <br>
+This is a *italic*
+This is ~~Strike Throuh~~ <br>
+This is a [website](google.com)
+![Vivs Hacx](https://avatars.githubusercontent.com/u/39510579?s=400&u=51caf79f0a59414e8ebe1e5e5f5b84eea4c4fcd3&v=4)
+
+
+
+
+- test1
+- test2
+- test3 
+
+- [ ] this is a croos list
+- [x] this is another
+
 -->
+
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=icodervivek)](https://github.com/icodervivek/github-readme-stats&show_icons=true&theme=radical)
