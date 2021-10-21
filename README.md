@@ -62,6 +62,13 @@ const Vivek = {
 
 -->
 
+**Hey There, Vivek Here 👋**
+
+I'm a self-taught Techie whose live revolves around Web Dev 💻 to Open Source 🧾
+
+##### About Me
+- 🕸 Aspiring Web Developer
+- 🙌 Open Source Enthusiast
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical)
 
