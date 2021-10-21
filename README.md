@@ -56,7 +56,7 @@ const Vivek = {
            ],
  Learning : ['Web Development', 
             'DSA', 
-            'Open Source Enthusiast ' ]
+            'Open Source Contribution ' ]
 }
 ```
 
@@ -95,7 +95,7 @@ const Vivek = {
            ],
  Learning : ['Web Development', 
             'DSA', 
-            'Open Source Enthusiast ' ]
+            'Open Source Contribution ' ]
 }
 ```
 
