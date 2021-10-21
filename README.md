@@ -60,11 +60,19 @@ const Vivek = {
 }
 ```
 
+
+
+
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical) <br>
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icodervivek&layout=compact&theme=radical)](https://github.com/icodervivek/github-readme-stats)
+
+
+
 -->
 
 **Hey There, Vivek Here 👋**
 
-I'm a self-taught Techie whose live revolves around Web Dev 💻 to Open Source 🧾
+I'm a self-taught Techie whose live revolves around **Web Dev** 💻 to **Open Source** 🧾
 
 ##### About Me
 - 🕸 Aspiring Web Developer
