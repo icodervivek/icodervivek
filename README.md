@@ -86,15 +86,13 @@ const Vivek = {
   Description : [TechEnthusiast, Traveller, Developer],
   Education : 
            [ 
-           { Collge: BCA-Ranchi University, 
+           { Collge: BCA Ranchi University, 
              Year :2021-24  }, 
            { School : International Public School,
                       Amanat Ali Inter College,
               Year : 2018-20 } 
            ],
- Learning : ['Web Development', 
-            'DSA', 
-            'Open Source Contribution ' ]
+ Learning : ['Web Development', 'DSA', 'Open Source Contribution']
 }
 ```
 
