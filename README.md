@@ -101,7 +101,7 @@ const Vivek = {
 
 ### Technologies that I use
 <div style="display:inline">
-<img height="32" width="32" style="color:blue" src="https://unpkg.com/simple-icons@v5/icons/c.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/c.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/java.svg" />
 
