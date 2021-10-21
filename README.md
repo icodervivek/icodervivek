@@ -99,6 +99,9 @@ const Vivek = {
 }
 ```
 
+### Technologies that I use
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/html5.svg" />
+
 <a href="https://github.com/icodervivek/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical" />
 </a>
