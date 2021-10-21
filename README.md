@@ -72,7 +72,7 @@ const Vivek = {
 
 ## **Hey There, Vivek Here 👋**
 
-I'm a self-taught Techie whose live revolves around **Development** 💻 to **Open Source** 🧾
+I'm a self-taught Techie whose live revolves around **Development** 👨‍💻 to **Open Source** 🧾
 
 ### About Me
 - 🕸 Aspiring Web Developer
