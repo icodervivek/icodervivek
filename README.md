@@ -44,7 +44,7 @@ This is a [website](google.com)
 ```javascript
 const Vivek = {
   Pronouns: "he" | "his",
-  Description : [Tech enthusiast  
+  Description : [TechEnthusiast  
                 and a lot more ],
   Education : 
            [ 
@@ -83,8 +83,7 @@ I'm a self-taught Techie whose live revolves around **Web Dev** 💻 to **Open S
 ```javascript
 const Vivek = {
   Pronouns: "he" | "his",
-  Description : [Tech enthusiast, Traveller,
-                 Developer and a lot more],
+  Description : [TechEnthusiast, Traveller, Developer],
   Education : 
            [ 
            { Collge: Ranchi University, 
