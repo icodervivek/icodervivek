@@ -45,7 +45,7 @@ This is a [website](google.com)
 
 ## **Hey There, Vivek Here 👋**
 
-I'm a self-taught Techie whose life revolves around **Development** 👨‍💻 to **Open Source** 🧾
+I'm a self-taught Techie whose life revolves around **Development** 👨‍💻 and **Open Source** 🧾
 
 ### About Me
 - 🕸 Aspiring Web Developer
@@ -59,7 +59,7 @@ const Vivek = {
   Description : [TechEnthusiast, Traveller, Developer],
   Education : 
            [ 
-           { Collge: BCA Ranchi University, 
+           { College: BCA Ranchi University, 
              Year : 2021-24  }, 
            { School : South Point Public School,
                       International Public School,
