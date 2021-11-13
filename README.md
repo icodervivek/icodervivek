@@ -118,7 +118,7 @@ const Vivek = {
 <a href="https://github.com/icodervivek/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical" />
 </a>
-<br />
-<a href="https://github.com/icodervivek/github-readme-stats">
+
+<a href="https://github.com/icodervivek/github-readme-stats" style="margin-top: 2px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icodervivek&layout=compact&theme=radical" />
 </a>
