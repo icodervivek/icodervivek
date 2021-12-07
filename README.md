@@ -55,7 +55,6 @@ I'm a self-taught Techie whose life revolves around **Development** 👨‍💻 
 
 ```javascript
 const Vivek = {
-  Pronouns: "he" | "his",
   Description : [TechEnthusiast, Traveller, Developer],
   Education : 
            [ 
