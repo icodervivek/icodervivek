@@ -48,7 +48,7 @@ This is a [website](google.com)
 I'm a self-taught Techie whose life revolves around **Development** 👨‍💻 and **Open Source** 🧾
 
 ### About Me
-- 🕸 Aspiring Web Developer
+- 🕸 Web Developer
 - 🙌 Open Source Enthusiast
 
 ### A little more about me...  
