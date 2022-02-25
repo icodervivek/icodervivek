@@ -56,18 +56,7 @@ I'm a self-taught Techie whose life revolves around **Development** 👨‍💻 
 ```javascript
 const Vivek = {
   Description : [TechEnthusiast, Traveller, Developer],
-  Education : 
-           [ 
-           { College: BCA Ranchi University, 
-             Year : 2021-24  }, 
-           { School : South Point Public School,
-                      International Public School,
-                      Amanat Ali Inter College,
-             Year : 2005-20 } 
-           ],
- Learning : ['Web Development', 
-             'DSA', 
-             'Open Source Contribution']
+  Bio : Full Stack Web Developer
 }
 ```
 
