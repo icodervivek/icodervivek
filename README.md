@@ -55,8 +55,8 @@ I'm a self-taught Techie whose life revolves around **Development** 👨‍💻 
 
 ```javascript
 const Vivek = {
-  Description : [TechEnthusiast, Traveller, Developer],
-  Bio : Full Stack Web Developer
+  Interests : [Tech, Travelling, Development],
+  Speciality : Full Stack Web Developer
 }
 ```
 
