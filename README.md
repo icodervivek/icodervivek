@@ -56,8 +56,8 @@ I'm a self-taught Techie whose life revolves around **Development** 👨‍💻 
 
 ```javascript
 const Vivek = {
-  Interests : ["Tech", "Travelling", "Development", "Open Source"],
-  Speciality : "Full Stack Web Developer"
+  Interests: ["Tech", "Travelling", "Development", "Open Source"],
+  Speciality: "Full Stack Web Developer"
 }
 ```
 
