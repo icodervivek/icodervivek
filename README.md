@@ -68,11 +68,11 @@ const Vivek = {
 <div style="display:inline">
   
 <a href="https://www.linkedin.com/in/vivekpramanik/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://x.com/icodervivek">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
   
 </div>
@@ -95,12 +95,10 @@ const Vivek = {
 <!-- Databases & Tools -->
 <p>
   <b>Databases & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,firebase,docker,git,vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,firebase,docker,git,vercel,figma,xd" />
 </p>
 
-
 <br />
-
 
 <a href="https://github.com/icodervivek/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical" />
