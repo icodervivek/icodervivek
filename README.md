@@ -49,14 +49,16 @@ This is a [website](google.com)
 I'm a self-taught Techie whose life revolves around **Web Development** 👨‍💻 and **Gen AI** 🧾
 
 ### About Me
-- 🕸 Web Developer
-- 🙌 Open Source Enthusiast
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Generative+AI+Developer;Tech+Learner+Forever!" />
+</p>
+
 
 ### A little more about me...  
 
 ```javascript
 const Vivek = {
-  Interests: ["Tech", "Travelling", "Development", "Open Source"],
+  Interests: ["Tech", "Travelling", "Development"],
   Speciality: "Full Stack Web Developer"
 }
 ```
@@ -124,3 +126,11 @@ const Vivek = {
 <a href="https://github.com/icodervivek/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icodervivek&layout=compact&theme=radical" />
 </a>
+
+<br />
+<br />
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=icodervivek&theme=radical)
+
+
