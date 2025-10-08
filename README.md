@@ -46,7 +46,7 @@ This is a [website](google.com)
 
 ## **Hey There, Vivek Here 👋**
 
-I'm a self-taught Techie whose life revolves around **Development** 👨‍💻 and **Open Source** 🧾
+I'm a self-taught Techie whose life revolves around **Web Development** 👨‍💻 and **Gen AI** 🧾
 
 ### About Me
 - 🕸 Web Developer
