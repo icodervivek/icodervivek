@@ -1,118 +1,219 @@
+# Hey there, I'm Vivek 👋
 
-<!--
+### Full-Stack Developer · Backend Engineer · Mobile Developer · Generative AI Developer
 
-### Hi there 👋
+I'm a self-taught developer passionate about building **scalable web applications, mobile experiences, backend systems, and AI-powered products**.
 
-**icodervivek/icodervivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working across the entire development lifecycle — from designing user interfaces and building APIs to developing mobile applications, architecting distributed systems, integrating AI, and deploying applications to the cloud.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
 
-This is a **bold test** <br>
-This is a *italic*
-This is ~~Strike Throuh~~ <br>
-This is a [website](google.com)
-![Vivs Hacx](https://avatars.githubusercontent.com/u/39510579?s=400&u=51caf79f0a59414e8ebe1e5e5f5b84eea4c4fcd3&v=4)
-
-
-
-
-- test1
-- test2
-- test3 
-
-- [ ] this is a croos list
-- [x] this is another
-
-
-
-[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=icodervivek)](https://github.com/icodervivek/github-readme-stats&show_icons=true&theme=radical)
-
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical) <br>
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icodervivek&layout=compact&theme=radical)](https://github.com/icodervivek/github-readme-stats)
-
-
-
--->
-
-
-## **Hey There, Vivek Here 👋**
-
-I'm a self-taught Techie whose life revolves around **Web Development** 👨‍💻 and **Gen AI** 🧾
-
-### About Me
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Generative+AI+Developer;Tech+Learner+Forever!" />
-</p>
-
-
-### A little more about me...  
+* 💻 Full-Stack Developer building modern web applications
+* 📱 Mobile Developer using **React Native & Expo**
+* ☕ Currently deepening my expertise in **Java & Spring Boot**
+* 🧩 Exploring **Microservices, Kafka, Redis, WebSockets, and event-driven architectures**
+* 🤖 Building **Generative AI applications using LLMs, RAG, embeddings, and vector databases**
+* 🌐 Working with **React, Next.js, TypeScript, Node.js, and Express**
+* 🗄️ Working with **PostgreSQL, MongoDB, MySQL, and Redis**
+* ☁️ Exploring **AWS, Docker, Kubernetes, CI/CD, and cloud-native development**
+* 🛠️ Enjoy turning ideas into complete products — from **system design to deployment**
+* 📚 Always learning, experimenting, and building
 
 ```javascript
 const Vivek = {
-  Interests: ["Tech", "Travelling", "Development"],
-  Speciality: "Full Stack Web Developer"
-}
+  roles: [
+    "Full-Stack Developer",
+    "Backend Developer",
+    "Mobile Developer",
+    "Generative AI Developer"
+  ],
+
+  frontend: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+
+  mobile: [
+    "React Native",
+    "Expo",
+    "Expo Router"
+  ],
+
+  backend: [
+    "Java",
+    "Spring Boot",
+    "Node.js",
+    "Express",
+    "FastAPI"
+  ],
+
+  currentlyLearning: [
+    "Microservices",
+    "Kafka",
+    "Redis",
+    "Kubernetes",
+    "Cloud & DevOps"
+  ],
+
+  interests: [
+    "System Design",
+    "Distributed Systems",
+    "Generative AI",
+    "RAG",
+    "Mobile Development",
+    "Product Development"
+  ],
+
+  mindset: "Build. Learn. Improve. Repeat."
+};
 ```
 
-### My Socials
+---
 
-<div style="display:inline">
-  
-<a href="https://www.linkedin.com/in/vivekpramanik/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+## 🧑‍💻 Tech Stack
 
-<a href="https://x.com/icodervivek">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-  
-</div>
+### Languages
 
-
-### Technologies that I use
-
-<!-- Languages -->
 <p>
-  <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,rust" />
 </p>
 
-<!-- Frontend & Backend -->
+### Web Development
+
 <p>
-  <b>Frontend & Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
 </p>
 
-<!-- Databases & Tools -->
+### Mobile Development
+
 <p>
-  <b>Databases & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,firebase,docker,git,vercel,figma,xd" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-<br />
+**React Native · Expo · Expo Router**
 
-<a href="https://github.com/icodervivek/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical" />
-</a>
-<br />
-<br />
-<a href="https://github.com/icodervivek/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icodervivek&layout=compact&theme=radical" />
-</a>
+Building cross-platform mobile applications with reusable components, navigation, API integration, state management, and native device capabilities.
 
-<br />
-<br />
+### Backend Development
 
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=icodervivek&theme=radical)
+**Spring Boot · Spring Security · Node.js · Express · FastAPI · REST APIs · WebSockets**
 
+### Databases & Caching
 
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+### Messaging & Distributed Systems
+
+**Apache Kafka · Redis · WebSockets · Microservices · Event-Driven Architecture**
+
+### Generative AI
+
+**LLMs · RAG · Embeddings · Vector Databases · AI Agents · LangChain · OpenAI · Gemini**
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins" />
+</p>
+
+**AWS · Docker · Docker Compose · Kubernetes · CI/CD · Nginx · Jenkins**
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,figma" />
+</p>
+
+---
+
+## 🏗️ What I Like Building
+
+### 🌐 Full-Stack Applications
+
+Modern web applications using **React/Next.js, TypeScript, and scalable backend APIs**, with authentication, databases, caching, real-time communication, and cloud deployment.
+
+### 📱 Mobile Applications
+
+Cross-platform applications using **React Native and Expo**, focusing on responsive interfaces, smooth navigation, API integration, authentication, state management, and native functionality.
+
+### ⚙️ Backend & Microservices
+
+Backend systems using **Java, Spring Boot, Spring Security, JPA, PostgreSQL, Redis, and Kafka**, with a focus on clean architecture, scalability, reliability, and maintainability.
+
+### 🤖 Generative AI Applications
+
+AI-powered applications using **LLMs, RAG pipelines, embeddings, vector databases, semantic search, and intelligent document processing**.
+
+### ☁️ Cloud-Native Products
+
+Containerized and deployable applications using **Docker, Kubernetes, AWS, CI/CD, and infrastructure automation**.
+
+---
+
+## 🚀 Currently Exploring
+
+```text
+Java & Spring Boot
+        ↓
+Microservices
+        ↓
+Kafka + Redis
+        ↓
+System Design
+        ↓
+Docker + Kubernetes
+        ↓
+AWS + Cloud Native
+        ↓
+Generative AI + RAG
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icodervivek&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=icodervivek&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/vivekpramanik/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/icodervivek">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+---
+
+### 💡 Building for Web. Building for Mobile. Building with AI.
+
+⭐ Feel free to explore my repositories and connect with me.
