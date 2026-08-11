@@ -180,18 +180,6 @@ Generative AI + RAG
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icodervivek&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icodervivek&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
