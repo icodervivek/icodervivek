@@ -1,12 +1,27 @@
-# Hey there, I'm Vivek 👋
+<div align="center">
 
-### Full-Stack Developer · Backend Engineer · Mobile Developer · Generative AI Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Hey%20there,%20I'm%20Vivek%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20·%20Backend%20·%20Mobile%20·%20Generative%20AI&descAlignY=55&descSize=18" width="100%"/>
 
-I'm a self-taught developer passionate about building **scalable web applications, mobile experiences, backend systems, and AI-powered products**.
+<a href="https://vivekpramanik.in">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-vivekpramanik.in-6366f1?style=for-the-badge&labelColor=1a1a2e" />
+</a>
+<a href="https://www.linkedin.com/in/vivekpramanik/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="https://x.com/icodervivek">
+  <img src="https://img.shields.io/badge/Twitter-@icodervivek-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e" />
+</a>
 
-I enjoy working across the entire development lifecycle — from designing user interfaces and building APIs to developing mobile applications, architecting distributed systems, integrating AI, and deploying applications to the cloud.
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=icodervivek&style=for-the-badge&color=6366f1&labelColor=1a1a2e" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px"/>
+
 
 ## 🚀 About Me
 
